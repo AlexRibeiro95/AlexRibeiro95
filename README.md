@@ -32,7 +32,7 @@ Here are some of my favorite projects:
 
 ## 📈 GitHub Stats
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=h4Sh1G&show_icons=true&theme=radical)
 
 ## 📫 Contact Me
 
