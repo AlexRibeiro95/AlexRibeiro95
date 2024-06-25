@@ -7,7 +7,7 @@ I'm an aspiring junior data analyst with a passion for tech, ecology, nutrition 
 
 ## 🧑‍💻 About Me
 
-- 🎓 I have a bachelor degree in environmental sciences from Universidade Aberta, in Lisbon..
+- 🎓 I have a bachelor degree in environmental sciences from Universidade Aberta, in Lisbon.
 - 💼 Currently working as a EV Technician at Tesla.
 - 🌱 I’m currently learning data science.
 - 💬 If you feel like it, let's connect and have a chat about something we might have in common.
