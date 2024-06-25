@@ -3,7 +3,7 @@
 ## Hello, I'm Alexandre Ribeiro👋
 
 Welcome to my GitHub profile! 
-I'm an aspiring junior data analyst with a passion for tech, ecology, nutrition and a healthy and conscious lifestyle. . 
+I'm an aspiring junior data analyst with a passion for tech, ecology, nutrition and a healthy and conscious lifestyle overall. :relieved:
 
 ## 🧑‍💻 About Me
 
