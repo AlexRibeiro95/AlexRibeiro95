@@ -1,9 +1,9 @@
-# Welcome stranger 👋
+# Hi there 😎
 
 ## Hello, I'm Alexandre Ribeiro👋
 
 Welcome to my GitHub profile! 
-I'm an aspiring junior data analyst with a passion for tech, ecology, nutrition and a healthy and conscious lifestyle overall. :relieved:
+I'm an aspiring junior data analyst with a passion for tech, ecology, nutrition and a healthy and conscious lifestyle overall. 😌
 
 ## 🧑‍💻 About Me
 
@@ -25,9 +25,9 @@ I'm an aspiring junior data analyst with a passion for tech, ecology, nutrition 
 
 Here are some of my favorite projects:
 
--**TBA**
--**TBA**
--**TBA**
+👉 **TBA**
+👉 **TBA**
+👉 **TBA**
 
 ## 📈 GitHub Stats
 
