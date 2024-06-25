@@ -39,7 +39,7 @@ Here are some of my favorite projects:
 - [LinkedIn](https://www.linkedin.com/in/alexandre-ribeiro-264445279/)
 - [Kaggle](https://www.kaggle.com/alexrribeiro)
 
-Thanks for visiting my profile! 😊
+Thanks for stopping by 😊
 <!--
 **h4Sh1G/h4Sh1G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
