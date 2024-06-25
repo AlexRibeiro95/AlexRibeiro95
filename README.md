@@ -15,7 +15,8 @@ I'm an aspiring junior data analyst with a passion for tech, ecology, nutrition 
 
 ## 🛠️ Skills and Technologies
 
-- **Programming Languages**: Python (pandas, numpy, matplotlib, seaborn and scikitlearn) | SQL
+- **Programming Languages**: Python | SQL
+  - **Python Libraries**: pandas, numpy, matplotlib, seaborn and scikitlearn
 - **Soft Skills**: Analytical/Critical Thinking | Easygoing | Teamwork and collaboration | Adaptability 
 - **Data Visualization**: PowerBI | Tableau
 - **Data Science/ML**: TBA
