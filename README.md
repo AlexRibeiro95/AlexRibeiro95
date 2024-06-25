@@ -11,7 +11,7 @@ I'm an aspiring junior data analyst with a passion for tech, ecology, nutrition 
 - 💼 Currently working as a EV Technician at Tesla.
 - 🌱 I’m currently learning data science.
 - 💬 If you feel like it, let's connect and have a chat about something we might have in common.
-- 📫 How to reach me: alexandre.ribros95@gmail.com | [Linkedin](https://www.linkedin.com/in/alexandre-ribeiro-264445279/)
+- 📫 How to reach me: [Email](alexandre.ribros95@gmail.com) | [Linkedin](https://www.linkedin.com/in/alexandre-ribeiro-264445279/)
 
 ## 🛠️ Skills and Technologies
 
@@ -35,9 +35,9 @@ Here are some of my favorite projects:
 
 ## 📫 Contact Me
 
-- Email: [Email](alexandre.ribros95@gmail.com)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/alexandre-ribeiro-264445279/)
-- Kaggle: [Kaggle](https://www.kaggle.com/alexrribeiro)
+- [Email](alexandre.ribros95@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/alexandre-ribeiro-264445279/)
+- [Kaggle](https://www.kaggle.com/alexrribeiro)
 
 Thanks for visiting my profile! 😊
 <!--
