@@ -35,8 +35,8 @@ Here are some of my favorite projects:
 
 ## 📫 Contact Me
 
-- Email: [Your Email](alexandre.ribros95@gmail.com)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/alexandre-ribeiro-264445279/)
+- Email: [Email](alexandre.ribros95@gmail.com)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/alexandre-ribeiro-264445279/)
 - Kaggle: [Kaggle](https://www.kaggle.com/alexrribeiro)
 
 Thanks for visiting my profile! 😊
