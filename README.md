@@ -26,7 +26,7 @@ I'm an aspiring junior data analyst with a passion for tech, ecology, nutrition 
 
 Here are some of my favorite projects:
 
-👉 **[Shark Attack Data Analysis]**(https://github.com/h4Sh1G/SharkAttack)
+👉 **[Shark Attack Data Analysis](https://github.com/h4Sh1G/SharkAttack)**
 👉 **TBA**
 👉 **TBA**
 
