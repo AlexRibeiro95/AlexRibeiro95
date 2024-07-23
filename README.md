@@ -24,9 +24,12 @@ I'm an aspiring junior data analyst with a passion for tech, ecology, nutrition 
 
 ## 🌟 Projects
 
-Here are some of my favorite projects:
+**Capstone projects:**
 
 - 👉 **[Shark Attack EDA](https://github.com/h4Sh1G/SharkAttack)** 🦈
+
+**Here are some of my favorite projects:**
+
 - 👉 **[Food Waste and Emissions on the Food Supply Chain](https://github.com/h4Sh1G/data-wrangling-project)** 🗑️
 - 👉 **[Instacart app Costumer Behaviour Analysis](https://github.com/h4Sh1G/Project_InstacartCostumerBehaviourvior)** 📱
 
