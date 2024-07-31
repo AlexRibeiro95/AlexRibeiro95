@@ -32,7 +32,7 @@ I'm an aspiring junior data analyst with a passion for tech, ecology, nutrition 
 
 - 👉 **[Food Waste and Emissions on the Food Supply Chain](https://github.com/h4Sh1G/data-wrangling-project)** 🗑️
 - 👉 **[Instacart app Costumer Behaviour Analysis](https://github.com/h4Sh1G/Project_InstacartCostumerBehaviourvior)** 📱
-- 👉 **[Vanguard UI - A/B testing analysis](https://github.com/h4Sh1G/Vanguard-EDA)** 🧪
+- 👉 **[Vanguard UI - A/B Testing Analysis](https://github.com/h4Sh1G/Vanguard-EDA)** 🧪
 
   
 ## 📈 GitHub Stats
