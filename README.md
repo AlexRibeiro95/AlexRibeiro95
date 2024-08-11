@@ -37,7 +37,7 @@ I'm an aspiring junior data analyst with a passion for tech, ecology, nutrition 
   
 ## 📈 GitHub Stats
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=h4Sh1G&show_icons=true&theme=radical)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexRibeiro95&show_icons=true&theme=radical)
 
 ## 📫 Contact Me
 
