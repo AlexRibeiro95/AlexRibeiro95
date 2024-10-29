@@ -8,7 +8,7 @@ I'm an aspiring junior data analyst with a passion for tech, ecology, nutrition 
 ## 🧑‍💻 About Me
 
 - 🎓 I have a bachelor degree in environmental sciences from Universidade Aberta, in Lisbon.
-- 💼 Currently working as a EV Technician at Tesla.
+- 💼 Currently working as a Junior Data Analyst at Tesla.
 - 🌱 I’m learning data science.
 - 💬 If you feel like it, let's connect and have a chat about something we might have in common.
 - 📫 How to reach me: [Email](alexandre.ribros95@gmail.com) | [Linkedin](https://www.linkedin.com/in/alexandre-ribeiro-264445279/)
