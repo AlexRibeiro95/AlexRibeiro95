@@ -3,22 +3,22 @@
 ## Hello, I'm Alexandre Ribeiro👋
 
 Welcome to my GitHub profile! 
-I'm an aspiring junior data analyst with a passion for tech, ecology, nutrition and a healthy and conscious lifestyle overall. 😌
+I'm a junior data analyst with a passion for tech, ecology, nutrition and a healthy and conscious lifestyle overall. 😌
 
 ## 🧑‍💻 About Me
 
-- 🎓 I have a bachelor degree in environmental sciences from Universidade Aberta, in Lisbon.
+- 🎓 I have a bachelor degree in environmental sciences from Universidade Aberta, Lisbon.
 - 💼 Currently working as a Junior Data Analyst at Tesla.
-- 🌱 I’m learning data science.
+- 🌱 Improving and solidifying my analytical skillset.
 - 💬 If you feel like it, let's connect and have a chat about something we might have in common.
 - 📫 How to reach me: [Email](alexandre.ribros95@gmail.com) | [Linkedin](https://www.linkedin.com/in/alexandre-ribeiro-264445279/)
 
 ## 🛠️ Skills and Technologies
 
-- **Programming Languages**: Python | SQL
+- **Programming Languages**: Python | SQL | SQLclickhouse
   - **Python Libraries**: pandas, numpy, matplotlib, seaborn and scikitlearn
-- **Soft Skills**: Analytical/Critical Thinking | Easygoing | Teamwork and collaboration | Adaptability 
-- **Data Visualization**: PowerBI | Tableau | Streamlit
+- **Soft Skills**: Analytical/Critical Thinking | Easygoing | Teamplayer| Adaptability | Continuous learning (always curious)
+- **Data Visualization**: PowerBI | Tableau | Streamlit | Ziplabs | KPI reporting
 - **Data Science/ML**: Scikit Library | Data preprocessing to use in ML models | ML Tuning (w/ Hyperparameters)
 - **Other Tools**: MS Office
 
@@ -47,17 +47,3 @@ I'm an aspiring junior data analyst with a passion for tech, ecology, nutrition 
 - [Kaggle](https://www.kaggle.com/alexrribeiro)
 
 Thanks for stopping by 😊
-<!--
-**h4Sh1G/h4Sh1G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
