@@ -1,7 +1,5 @@
 # Hi there!
 
-## Hello, I'm Alexandre Ribeiro
-
 Welcome to my GitHub profile! 
 I'm a junior data analyst with a passion for tech, ecology, nutrition and a healthy and conscious lifestyle overall. 
 
