@@ -26,7 +26,7 @@ I'm a junior data analyst with a passion for tech, ecology, nutrition and a heal
 
 **Capstone projects:**
 
-- **[Shark Attack EDA](https://github.com/h4Sh1G/SharkAttack)** 🦈
+- **[Shark Attack EDA](https://github.com/h4Sh1G/SharkAttack)** 
 
 **Here are some of my favorite projects:**
 
