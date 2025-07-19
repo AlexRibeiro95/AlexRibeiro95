@@ -1,30 +1,24 @@
 # Hi there!
 
 Welcome to my GitHub profile! 
-I'm a junior data analyst with a passion for tech, ecology, nutrition and a healthy and conscious lifestyle overall. 
+Hey, I’m a Data Analyst currently working on pricing and automation at Tesla across the EMEA region.
 
 ## About Me
 
-- I have a bachelor degree in environmental sciences from Universidade Aberta, Lisbon.
-- Currently working as a Junior Data Analyst at Tesla.
-- Improving and solidifying my analytical skillset.
-- If you feel like it, let's connect and have a chat about something we might have in common.
+- Naturally curious and not afraid to step outside of my comfort zone.
+- Growing and learning everyday.
 - How to reach me: [Email](alexandre.ribros95@gmail.com) | [Linkedin](https://www.linkedin.com/in/alexandre-ribeiro-264445279/)
 
 ## Skills and Technologies
 
 - **Programming Languages**: Python | SQL | SQLclickhouse
   - **Python Libraries**: pandas, numpy, matplotlib, seaborn and scikitlearn
-- **Soft Skills**: Analytical/Critical Thinking | Easygoing | Teamplayer| Adaptability | Continuous learning (always curious)
-- **Data Visualization**: PowerBI | Tableau | Streamlit | Ziplabs | KPI reporting
+- **Soft Skills**: Analytical/Critical Thinking | Easygoing | Teamplayer| Adaptability | Continuous learning mindset
+- **Data Visualization**: Streamlit | Ziplabs | KPIs reporting 
 - **Data Science/ML**: Scikit Library | Data preprocessing to use in ML models | ML Tuning (w/ Hyperparameters)
-- **Other Tools**: MS Office
+- **Other Tools**: Excel
 
 ## Projects
-
-**Capstone projects:**
-
-- **[Shark Attack EDA](https://github.com/h4Sh1G/SharkAttack)** 
 
 **Here are some of my favorite projects:**
 
